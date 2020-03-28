@@ -14,6 +14,10 @@ $ cd research_project
 $ pip3 install -r requirements.txt
 ```
 
+### Data
+Datasets for this notebook can be downloaded [here](https://nijianmo.github.io/amazon/index.html)
+The dataset I used in my research was the 5-core dataset for category Industrial and Scientific. Another 5-core dataset would work as well, but then you would have to change the filename in the code itself. Make sure not to use any datasets larger than the Industrial and Scientific datasets, otherwise Jupyter may crash.
+
 ### To open the notebook
 
 Once everything is installed, start Jupyter Notebooks as follows:
