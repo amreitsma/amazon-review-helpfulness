@@ -1,5 +1,5 @@
 # Helpfulness votes on Amazon: what makes online reviews helpful?
-This repository includes all the code needed to carry out my research on amazon review helpfulness in the form of a Jupyter Notebook, and a txt file providing the necessary requirements to run it.
+This repository includes all the code needed to carry out my research on amazon review helpfulness, in the form of a Jupyter Notebook and a txt file providing the necessary requirements to run it.
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ This should open the Jupyter interface in your browser. Navigate to the director
 ### Data
 Datasets for this notebook can be downloaded [here](https://nijianmo.github.io/amazon/index.html)
 
-The dataset I used in my research was the 5-core dataset for category Industrial and Scientific. Another 5-core dataset would work as well, but then you would have to change the filename in the code itself and the mean review length. Make sure not to use any datasets larger than the Industrial and Scientific datasets, otherwise Jupyter may crash.
+The dataset I used in my research was the 5-core dataset for category Industrial and Scientific. Another 5-core dataset would work as well, but then you would have to change the filename and the mean review length in the code itself. Make sure not to use any datasets larger than the Industrial and Scientific datasets, otherwise Jupyter may crash.
 
 To use another dataset, change the filename in the following code to the filename of the dataset you're using
 ```
